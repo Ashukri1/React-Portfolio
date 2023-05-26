@@ -1,0 +1,62 @@
+#navlinks{
+  display: flex;
+  flex-direction: row;
+  font-size: 24px;
+  list-style: none;
+  text-decoration: none;
+  color: black;
+  
+  
+}
+li{
+  margin: 25px;
+}
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  
+
+  
+}
+#name{
+  height: 24px;
+  margin: 0px;
+
+}
+p{
+  margin: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 16px;
+
+}
+#contactinfo{
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  text-decoration: none;
+  justify-content: space-between;
+  text-decoration: underline;
+}
+
+img{
+  border-style: double;
+  border-width: 10px;
+  
+}
+#top-section{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+body{
+  background-color:whitesmoke;
+}
+.full-stack{
+  width:320px;
+  height:250px;
+}
